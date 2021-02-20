@@ -2,6 +2,9 @@
 ### Cotización Express
 Sistema desarrollado para el vendedor de una tienda de ropa mayorista, para realizar cotizaciones de sus productos.
 
+### Diagrama de clases
+![Diagrama de Clases](https://raw.githubusercontent.com/noemimorales/CotizadorExpress/develop/Clases%20Cotizador%20Express.bmp)
+
 ---
 #### 1. Nombre completo:
 
