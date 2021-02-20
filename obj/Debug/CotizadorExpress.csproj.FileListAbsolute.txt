@@ -1,0 +1,11 @@
+C:\Users\nmora\source\repos\CotizadorExpress\bin\Debug\CotizadorExpress.exe.config
+C:\Users\nmora\source\repos\CotizadorExpress\bin\Debug\CotizadorExpress.exe
+C:\Users\nmora\source\repos\CotizadorExpress\bin\Debug\CotizadorExpress.pdb
+C:\Users\nmora\source\repos\CotizadorExpress\obj\Debug\CotizadorExpress.csprojAssemblyReference.cache
+C:\Users\nmora\source\repos\CotizadorExpress\obj\Debug\CotizadorExpress.Properties.Resources.resources
+C:\Users\nmora\source\repos\CotizadorExpress\obj\Debug\CotizadorExpress.csproj.GenerateResource.cache
+C:\Users\nmora\source\repos\CotizadorExpress\obj\Debug\CotizadorExpress.csproj.CoreCompileInputs.cache
+C:\Users\nmora\source\repos\CotizadorExpress\obj\Debug\CotizadorExpress.exe
+C:\Users\nmora\source\repos\CotizadorExpress\obj\Debug\CotizadorExpress.pdb
+C:\Users\nmora\source\repos\CotizadorExpress\obj\Debug\CotizadorExpress.Cotizador.resources
+C:\Users\nmora\source\repos\CotizadorExpress\obj\Debug\CotizadorExpress.Historial.resources
